@@ -1,4 +1,10 @@
-# github-core-clone-01 starter
+# github-core-forge-20261114
+
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/robertjanuarta110/github-core-forge-20261114/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard)
+[![reward](https://make.fun/badge/github-core-clone-01/robertjanuarta110/github-core-forge-20261114/reward.svg)](https://make.fun/bounty/github-core-clone-01)
+
+A single Node 22 process serving git smart HTTP, REST v3, GraphQL and MCP from one store.
 
 A runnable starting point for [the contest](https://make.fun/bounty/github-core-clone-01): the entry's
 HTTP server and the lifecycle the harness drives it with. It answers two routes and a JSON 404 for
